@@ -1,5 +1,5 @@
 package com.example.automaticplayaudio;
-
+//Play Sound When Car Screen starts
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.media.AudioManager;
